@@ -1,0 +1,643 @@
+{
+    "dataType": "SR Legacy",
+    "description": "Beans, snap, green, raw",
+    "fdcId": 169961,
+    "foodAttributes": [],
+    "foodCategory": {
+        "code": "1100",
+        "description": "Vegetables and Vegetable Products",
+        "id": 11
+    },
+    "foodClass": "FinalFood",
+    "foodComponents": [],
+    "foodNutrients": [
+        {
+            "amount": 90.32,
+            "dataPoints": 165,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483229,
+            "max": 93.13,
+            "min": 90.27,
+            "nutrient": {
+                "id": 1051,
+                "name": "Water",
+                "number": "255",
+                "rank": 100,
+                "unitName": "g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 1.83,
+            "dataPoints": 104,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483244,
+            "max": 2.25,
+            "min": 1.82,
+            "nutrient": {
+                "id": 1003,
+                "name": "Protein",
+                "number": "203",
+                "rank": 600,
+                "unitName": "g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.22,
+            "dataPoints": 14,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483230,
+            "max": 0.61,
+            "min": 0.12,
+            "nutrient": {
+                "id": 1004,
+                "name": "Total lipid (fat)",
+                "number": "204",
+                "rank": 800,
+                "unitName": "g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 6.97,
+            "dataPoints": 0,
+            "foodNutrientDerivation": {
+                "code": "NC",
+                "description": "Calculated",
+                "foodNutrientSource": {
+                    "code": "4",
+                    "description": "Calculated or imputed",
+                    "id": 2
+                },
+                "id": 49
+            },
+            "id": 1483256,
+            "nutrient": {
+                "id": 1005,
+                "name": "Carbohydrate, by difference",
+                "number": "205",
+                "rank": 1110,
+                "unitName": "g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 37.0,
+            "dataPoints": 153,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483234,
+            "max": 49.0,
+            "min": 37.0,
+            "nutrient": {
+                "id": 1087,
+                "name": "Calcium, Ca",
+                "number": "301",
+                "rank": 5300,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 1.03,
+            "dataPoints": 155,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483249,
+            "max": 1.04,
+            "min": 0.61,
+            "nutrient": {
+                "id": 1089,
+                "name": "Iron, Fe",
+                "number": "303",
+                "rank": 5400,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 25.0,
+            "dataPoints": 151,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483250,
+            "max": 28.0,
+            "min": 18.0,
+            "nutrient": {
+                "id": 1090,
+                "name": "Magnesium, Mg",
+                "number": "304",
+                "rank": 5500,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 38.0,
+            "dataPoints": 140,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483251,
+            "max": 45.0,
+            "min": 36.0,
+            "nutrient": {
+                "id": 1091,
+                "name": "Phosphorus, P",
+                "number": "305",
+                "rank": 5600,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 211.0,
+            "dataPoints": 154,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483235,
+            "max": 300.0,
+            "min": 209.0,
+            "nutrient": {
+                "id": 1092,
+                "name": "Potassium, K",
+                "number": "306",
+                "rank": 5700,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 6.0,
+            "dataPoints": 154,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483252,
+            "max": 8.0,
+            "min": 2.0,
+            "nutrient": {
+                "id": 1093,
+                "name": "Sodium, Na",
+                "number": "307",
+                "rank": 5800,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.24,
+            "dataPoints": 152,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483236,
+            "max": 0.35,
+            "min": 0.24,
+            "nutrient": {
+                "id": 1095,
+                "name": "Zinc, Zn",
+                "number": "309",
+                "rank": 5900,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.069,
+            "dataPoints": 161,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483253,
+            "max": 0.094,
+            "min": 0.062,
+            "nutrient": {
+                "id": 1098,
+                "name": "Copper, Cu",
+                "number": "312",
+                "rank": 6000,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.216,
+            "dataPoints": 150,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483254,
+            "max": 0.337,
+            "min": 0.208,
+            "nutrient": {
+                "id": 1101,
+                "name": "Manganese, Mn",
+                "number": "315",
+                "rank": 6100,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.6,
+            "dataPoints": 1,
+            "foodNutrientDerivation": {
+                "code": "A",
+                "description": "Analytical",
+                "foodNutrientSource": {
+                    "code": "1",
+                    "description": "Analytical or derived from analytical",
+                    "id": 1
+                },
+                "id": 1
+            },
+            "id": 1483320,
+            "nutrient": {
+                "id": 1103,
+                "name": "Selenium, Se",
+                "number": "317",
+                "rank": 6200,
+                "unitName": "\u00b5g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 12.2,
+            "dataPoints": 9,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483240,
+            "max": 16.3,
+            "min": 5.9,
+            "nutrient": {
+                "id": 1162,
+                "name": "Vitamin C, total ascorbic acid",
+                "number": "401",
+                "rank": 6300,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.082,
+            "dataPoints": 102,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483241,
+            "max": 0.084,
+            "min": 0.03,
+            "nutrient": {
+                "id": 1165,
+                "name": "Thiamin",
+                "number": "404",
+                "rank": 6400,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.104,
+            "dataPoints": 102,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483242,
+            "max": 0.105,
+            "min": 0.05,
+            "nutrient": {
+                "id": 1166,
+                "name": "Riboflavin",
+                "number": "405",
+                "rank": 6500,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.734,
+            "dataPoints": 12,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483237,
+            "max": 0.92,
+            "min": 0.49,
+            "nutrient": {
+                "id": 1167,
+                "name": "Niacin",
+                "number": "406",
+                "rank": 6600,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.225,
+            "dataPoints": 4,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483238,
+            "max": 0.28,
+            "min": 0.094,
+            "nutrient": {
+                "id": 1170,
+                "name": "Pantothenic acid",
+                "number": "410",
+                "rank": 6700,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.141,
+            "dataPoints": 4,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483239,
+            "max": 0.146,
+            "min": 0.074,
+            "nutrient": {
+                "id": 1175,
+                "name": "Vitamin B-6",
+                "number": "415",
+                "rank": 6800,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 33.0,
+            "dataPoints": 8,
+            "foodNutrientDerivation": {
+                "code": "JA",
+                "description": "Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13",
+                "foodNutrientSource": {
+                    "code": "6",
+                    "description": "Aggregated data involving combinations of source codes 1, 6, 12 and/or 13",
+                    "id": 4
+                },
+                "id": 42
+            },
+            "id": 1483243,
+            "max": 37.0,
+            "min": 19.0,
+            "nutrient": {
+                "id": 1177,
+                "name": "Folate, total",
+                "number": "417",
+                "rank": 6900,
+                "unitName": "\u00b5g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.0,
+            "dataPoints": 0,
+            "foodNutrientDerivation": {
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",
+                "foodNutrientSource": {
+                    "code": "7",
+                    "description": "Assumed zero",
+                    "id": 5
+                },
+                "id": 68
+            },
+            "id": 1483299,
+            "nutrient": {
+                "id": 1178,
+                "name": "Vitamin B-12",
+                "number": "418",
+                "rank": 7300,
+                "unitName": "\u00b5g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 35.0,
+            "dataPoints": 0,
+            "id": 1483277,
+            "nutrient": {
+                "id": 1106,
+                "name": "Vitamin A, RAE",
+                "number": "320",
+                "rank": 7420,
+                "unitName": "\u00b5g"
+            },
+            "type": "FoodNutrient"
+        },
+        {
+            "amount": 0.0,
+            "dataPoints": 0,
+            "foodNutrientDerivation": {
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",
+                "foodNutrientSource": {
+                    "code": "7",
+                    "description": "Assumed zero",
+                    "id": 5
+                },
+                "id": 68
+            },
+            "id": 1483298,
+            "nutrient": {
+                "id": 1253,
+                "name": "Cholesterol",
+                "number": "601",
+                "rank": 15700,
+                "unitName": "mg"
+            },
+            "type": "FoodNutrient"
+        }
+    ],
+    "foodPortions": [
+        {
+            "amount": 10.0,
+            "gramWeight": 55.0,
+            "id": 85759,
+            "measureUnit": {
+                "abbreviation": "undetermined",
+                "id": 9999,
+                "name": "undetermined"
+            },
+            "modifier": "beans (4\" long)",
+            "sequenceNumber": 2
+        },
+        {
+            "amount": 1.0,
+            "dataPoints": 11,
+            "gramWeight": 100.0,
+            "id": 85758,
+            "measureUnit": {
+                "abbreviation": "undetermined",
+                "id": 9999,
+                "name": "undetermined"
+            },
+            "modifier": "cup 1/2\" pieces",
+            "sequenceNumber": 1
+        }
+    ],
+    "inputFoods": [],
+    "isHistoricalReference": true,
+    "ndbNumber": 11052,
+    "nutrientConversionFactors": [
+        {
+            "carbohydrateValue": 3.57,
+            "fatValue": 8.37,
+            "id": 13215,
+            "name": "Calories From Proximates",
+            "proteinValue": 2.44,
+            "type": ".CalorieConversionFactor"
+        },
+        {
+            "id": 18256,
+            "name": "Protein From Nitrogen",
+            "type": ".ProteinConversionFactor",
+            "value": 6.25
+        }
+    ],
+    "publicationDate": "4/1/2019",
+    "scientificName": "Phaseolus vulgaris"
+}
